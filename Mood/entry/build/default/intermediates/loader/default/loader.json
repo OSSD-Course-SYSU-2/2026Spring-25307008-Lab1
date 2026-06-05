@@ -1,0 +1,26 @@
+{
+  "modulePathMap": {
+    "entry": "D:\\Document\\IDEProjects\\Mood\\entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\Document\\IDEProjects\\Mood",
+  "nodeModulesPath": "D:\\Document\\IDEProjects\\Mood\\entry\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "D:\\Document\\IDEProjects\\Mood\\entry\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "changedFileList": "D:\\Document\\IDEProjects\\Mood\\entry\\build\\default\\intermediates\\patch\\default\\changedFileList.json"
+  }
+}

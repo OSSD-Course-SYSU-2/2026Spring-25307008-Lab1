@@ -1,0 +1,11 @@
+Text(this.getHoliday(day)!.emoji)
+                            .fontSize(18)
+                            .margin({ top: 2 })
+===
+Text(this.getHoliday(day)!.name)
+                            .fontSize(9)
+                            .fontColor(this.getHoliday(day)!.color)
+                            .fontWeight(FontWeight.Medium)
+                            .maxLines(1)
+                            .textOverflow({ overflow: TextOverflow.Ellipsis })
+                            .margin({ top: 1 })

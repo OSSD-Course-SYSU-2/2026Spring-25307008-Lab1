@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "心情打卡器模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "心情打卡器主页面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "心情打卡器"
+    },
+    {
+      "name": "app_name",
+      "value": "心情打卡器"
+    },
+    {
+      "name": "today_mood_title",
+      "value": "今日心情打卡"
+    },
+    {
+      "name": "happy_mood",
+      "value": "开心"
+    },
+    {
+      "name": "calm_mood",
+      "value": "平静"
+    },
+    {
+      "name": "sad_mood",
+      "value": "难过"
+    },
+    {
+      "name": "angry_mood",
+      "value": "生气"
+    },
+    {
+      "name": "tired_mood",
+      "value": "疲惫"
+    },
+    {
+      "name": "happy_desc",
+      "value": "今天真是美好的一天！"
+    },
+    {
+      "name": "calm_desc",
+      "value": "内心平静，一切安好"
+    },
+    {
+      "name": "sad_desc",
+      "value": "心情有些低落..."
+    },
+    {
+      "name": "angry_desc",
+      "value": "有点生气，需要冷静"
+    },
+    {
+      "name": "tired_desc",
+      "value": "感觉有些疲惫，需要休息"
+    }
+  ]
+}
